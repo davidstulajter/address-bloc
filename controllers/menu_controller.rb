@@ -124,7 +124,4 @@ end
    entry_submenu(entry)
   end
  end
-end
-
-
-
+end 
