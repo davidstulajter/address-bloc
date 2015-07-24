@@ -111,7 +111,7 @@ end
   selection = gets.chomp
 
   case selection
-  
+
   when "n"
   when "d"
   when "e"
